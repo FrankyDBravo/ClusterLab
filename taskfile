@@ -1,0 +1,1 @@
+./main_cluster_net 1 1 0.8 1e6 0 0 8 $HT_TASK_ID

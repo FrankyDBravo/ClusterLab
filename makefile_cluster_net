@@ -1,0 +1,10 @@
+all:main_cluster_net
+
+main_cluster_net: main_cluster_net.o
+	g++ -o main_cluster_net main_cluster_net.o
+
+main_cluster_net.o:main_cost_net_cluster.cpp
+	g++ -std=c++11 -c -o main_cluster_net.o main_cost_net_cluster.cpp
+
+clean:
+	rm main_cluster_net *.o

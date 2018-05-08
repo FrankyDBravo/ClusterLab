@@ -1,0 +1,10 @@
+all:main_cluster
+
+main_cluster: main_cluster.o
+	g++ -o main_cluster main_cluster.o
+
+main_cluster.o:main_cost_cluster.cpp
+	g++ -std=c++11 -c -o main_cluster.o main_cost_cluster.cpp
+
+clean:
+	rm main_cluster *.o
