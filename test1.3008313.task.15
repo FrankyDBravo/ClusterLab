@@ -1,0 +1,2 @@
+#!/bin/bash
+./main_cluster 1 1 0.7 1e5 10 0.8 $HT_TASK_ID
