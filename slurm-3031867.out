@@ -78,3 +78,124 @@ Got integer: 1
 Got double: 1
 Got double: 10000
 ./data/outbreak/d1u1.0c100r0.5t1e4/number
+
+number of step: 28358581
+final size: 10000
+
+ elaspsed time: 24013.5s 
+
+ mean r:, 200.115
+number of step: 29541870
+final size: 10000
+
+ elaspsed time: 24703.6s 
+
+ mean r:, 199.926
+number of step: 29683349
+final size: 10000
+
+ elaspsed time: 25083s 
+
+ mean r:, 200.048
+number of step: 29951891
+final size: 10000
+
+ elaspsed time: 25613.7s 
+
+ mean r:, 200.038
+number of step: 29535501
+final size: 10000
+
+ elaspsed time: 25658.1s 
+
+ mean r:, 199.985
+number of step: 30343419
+final size: 10000
+
+ elaspsed time: 25704.6s 
+
+ mean r:, 199.964
+number of step: 30491956
+final size: 10000
+
+ elaspsed time: 25850.6s 
+
+ mean r:, 199.913
+number of step: 30487398
+final size: 10000
+
+ elaspsed time: 25923.5s 
+
+ mean r:, 199.927
+number of step: 30863486
+final size: 10000
+
+ elaspsed time: 25981.1s 
+
+ mean r:, 199.969
+number of step: 30610495
+final size: 10000
+
+ elaspsed time: 26102.2s 
+
+ mean r:, 200.06
+number of step: 31467761
+final size: 10000
+
+ elaspsed time: 26332.4s 
+
+ mean r:, 200.021
+number of step: 31678275
+final size: 10000
+
+ elaspsed time: 26429.2s 
+
+ mean r:, 200.065
+number of step: 30857424
+final size: 10000
+
+ elaspsed time: 26623.6s 
+
+ mean r:, 200.019
+number of step: 31831593
+final size: 10000
+
+ elaspsed time: 26747.4s 
+
+ mean r:, 199.896
+number of step: 31650597
+final size: 10000
+
+ elaspsed time: 26750.7s 
+
+ mean r:, 199.996
+number of step: 32355784
+final size: 10000
+
+ elaspsed time: 26775.9s 
+
+ mean r:, 200.094
+number of step: 31764755
+final size: 10000
+
+ elaspsed time: 27215.4s 
+
+ mean r:, 199.985
+number of step: 32474106
+final size: 10000
+
+ elaspsed time: 27606.4s 
+
+ mean r:, 200.005
+number of step: 32709036
+final size: 10000
+
+ elaspsed time: 27678.9s 
+
+ mean r:, 200.046
+number of step: 32820488
+final size: 10000
+
+ elaspsed time: 27756.6s 
+
+ mean r:, 199.937
