@@ -1,0 +1,201 @@
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+Got integer: 1
+Got double: 1
+Got double: 100000
+./data/outbreak/d1u1.0c0.01r0.5t1e5/number
+
+number of step: 1425081
+final size: 100000
+
+ elaspsed time: 43.6997s 
+
+ mean r:, 0.0199548
+number of step: 1504361
+final size: 100000
+
+ elaspsed time: 44.8743s 
+
+ mean r:, 0.0199727
+number of step: 1568995
+final size: 100000
+
+ elaspsed time: 45.4688s 
+
+ mean r:, 0.0199477
+number of step: 1594363
+final size: 100000
+
+ elaspsed time: 46.6312s 
+
+
+number of step: 1557630
+final size: 100000
+
+ elaspsed time: 46.7093s 
+ mean r:, 0.0199759
+ mean r:, 0.0199656
+number of step: 1552711
+final size: 100000
+
+ elaspsed time: 46.7093s 
+
+ mean r:, 0.019974
+number of step: 1518811
+final size: 100000
+
+ elaspsed time: 47.4773s 
+
+
+number of step: 1540867
+final size: 100000
+
+ elaspsed time: 47.5515s 
+ mean r:, 0.020028
+
+number of step: 1641061
+final size: 100001
+
+ elaspsed time: 47.6124s 
+
+ mean r:, 0.02005 mean r:, 0.0200018
+number of step: 1549627
+final size: 100000
+
+ elaspsed time: 47.9088s 
+
+ mean r:, 0.0200078
+number of step: 1623416
+final size: 100000
+
+ elaspsed time: 48.5256s 
+
+
+number of step: 1710190
+final size: 100000
+
+ elaspsed time: 48.5884s 
+
+ mean r:, 0.020022 mean r:, 0.019976
+number of step: 1676101
+final size: 100000
+
+ elaspsed time: 49.1992s 
+
+ mean r:, 0.0199688
+number of step: 1637772
+final size: 100000
+
+ elaspsed time: 49.5206s 
+
+number of step: 1665785
+final size: 100000
+
+ elaspsed time: 49.6464s 
+
+
+ mean r:, 0.0200875 mean r:, 0.0199898
+number of step: 1744836
+final size: 100000
+
+ elaspsed time: 50.5163s 
+
+ mean r:, 0.02004
+number of step: 1811425
+final size: 100000
+
+ elaspsed time: 51.7269s 
+
+ mean r:, 0.020066
+number of step: 1897785
+final size: 100000
+
+ elaspsed time: 53.5812s 
+
+ mean r:, 0.0199685
+number of step: 1963455
+final size: 100000
+
+ elaspsed time: 55.0137s 
+
+ mean r:, 0.0200497
+number of step: 2009129
+final size: 100000
+
+ elaspsed time: 55.691s 
+
+ mean r:, 0.019987

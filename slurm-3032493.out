@@ -78,3 +78,4 @@ Got integer: 1
 Got double: 0.7
 Got double: 1e+07
 ./data/outbreak/d1u0.7c0.1r0.5t1e7/number
+slurmstepd: error: *** JOB 3032493 ON n0007.savio1 CANCELLED AT 2018-05-27T16:31:29 DUE TO TIME LIMIT ***
